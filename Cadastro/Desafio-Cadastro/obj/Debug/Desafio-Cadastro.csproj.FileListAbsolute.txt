@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\bin\Debug\Desafio-Cadastro.exe.config
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\bin\Debug\Desafio-Cadastro.exe
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\bin\Debug\Desafio-Cadastro.pdb
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\obj\Debug\Desafio-Cadastro.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\obj\Debug\Desafio-Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\obj\Debug\Desafio_Cadastro.Form1.resources
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\obj\Debug\Desafio_Cadastro.Properties.Resources.resources
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\obj\Debug\Desafio-Cadastro.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\obj\Debug\Desafio-Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\obj\Debug\Desafio-Cadastro.exe
+C:\Users\Aluno\source\repos\jorge\Cadastro\Desafio-Cadastro\obj\Debug\Desafio-Cadastro.pdb
